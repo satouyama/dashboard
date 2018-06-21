@@ -3,18 +3,18 @@ import { Helpers } from '../../../../helpers';
 
 
 @Component({
-selector: "app-actions",
-templateUrl: "./actions.component.html",
-encapsulation: ViewEncapsulation.None,
+    selector: "app-actions",
+    templateUrl: "./actions.component.html",
+    encapsulation: ViewEncapsulation.None,
 })
 export class ActionsComponent implements OnInit {
 
 
-constructor()  {
+    constructor() {
 
-}
-ngOnInit()  {
+    }
+    ngOnInit() {
 
-}
+    }
 
 }
